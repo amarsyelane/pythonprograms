@@ -1,2 +1,0 @@
-# pythonprograms
-my first repository
